@@ -1,0 +1,37 @@
+.press-releaselist {}
+
+.card-container {
+  width: 700px;
+  border: 1px solid black;
+  display: flex;
+  margin: 1rem auto;
+}
+
+.press-img {
+  width: 320px;
+  height: 120px;
+  position: relative;
+  margin: 20px;
+}
+
+.press-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.press-info {
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.press-title {
+  font-size: 14px;
+}
+
+.press-preview {
+  font-size: 12px;
+}
+
+.press-date {
+  font-size: 12px;
+}
